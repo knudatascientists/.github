@@ -1,1 +1,1 @@
-# KNU data scientists organization
+# KNU 빅데이터 전문가 과정 프로젝트
